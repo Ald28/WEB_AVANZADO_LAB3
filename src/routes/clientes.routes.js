@@ -127,7 +127,7 @@ router.post('/editarProductos', async(req, res)=>{
     }
 });
 
-//---------------------- EDITAR PRODUCTOS
+//---------------------- EDITAR CATEGORIA
 
 router.get('/editarCategoria', async(req, res)=>{
     try {
